@@ -1,6 +1,6 @@
 # Topics of this event : 
 ## Section1 : 
-1.Introduction to React Vr &&  react-vr init && HotReloading > ./vr/client.js > enableHotReload : true
+Introduction to React Vr &&  react-vr init && HotReloading > ./vr/client.js > enableHotReload : true
 
 ## section 2 : 
 Working With Pano , Asset Component
